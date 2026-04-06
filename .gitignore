@@ -1,0 +1,9 @@
+/__pycache__
+/tests/__pycache__
+/dags/__pycache__
+/airflow_client/__pycache__
+/audit/__pycache__
+/audit/migrations/__pycache__
+/authentication/__pycache__
+/dag_manager/__pycache__
+/dags/migrations/__pycache__
